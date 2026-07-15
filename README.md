@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1051-height-checker) |
 ## Greedy
 |  |
 | ------- |
@@ -13,8 +14,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1051-height-checker) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
