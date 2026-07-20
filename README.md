@@ -26,9 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0989-add-to-array-form-of-integer](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0989-add-to-array-form-of-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
