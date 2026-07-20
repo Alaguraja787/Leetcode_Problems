@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0136-single-number) |
 | [0561-array-partition](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0566-reshape-the-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1051-height-checker) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0168-excel-sheet-column-title) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0566-reshape-the-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
