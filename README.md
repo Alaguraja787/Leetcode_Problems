@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0989-add-to-array-form-of-integer) |
 ## Bit Manipulation
 |  |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0566-reshape-the-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
