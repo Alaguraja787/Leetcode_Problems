@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0860-lemonade-change) |
 | [0989-add-to-array-form-of-integer](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1051-height-checker) |
+| [1480-running-sum-of-1d-array](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0202-happy-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
