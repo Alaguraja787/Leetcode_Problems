@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0566-reshape-the-matrix) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0283-move-zeroes) |
 ## Prefix Sum
 |  |
 | ------- |
