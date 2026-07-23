@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0605-can-place-flowers) |
+| [0804-unique-morse-code-words](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0804-unique-morse-code-words) |
 | [0860-lemonade-change](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0860-lemonade-change) |
 | [0890-find-and-replace-pattern](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0890-find-and-replace-pattern) |
 | [0989-add-to-array-form-of-integer](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0989-add-to-array-form-of-integer) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0383-ransom-note](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0443-string-compression) |
+| [0804-unique-morse-code-words](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0804-unique-morse-code-words) |
 | [0890-find-and-replace-pattern](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0890-find-and-replace-pattern) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Matrix
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0383-ransom-note) |
+| [0804-unique-morse-code-words](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0804-unique-morse-code-words) |
 | [0890-find-and-replace-pattern](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0890-find-and-replace-pattern) |
 | [1512-number-of-good-pairs](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
