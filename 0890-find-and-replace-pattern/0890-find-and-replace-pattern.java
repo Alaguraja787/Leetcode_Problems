@@ -19,7 +19,7 @@ class Solution {
                 map2.put(w,p);
             }
             else{
-                if (map1.getOrDefault(p,'#') != w || map2.getOrDefault(w,'#') !=p){
+                if (map1.getOrDefault(p,'#') != w){
                     return false;
                 }
             }
