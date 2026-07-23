@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0383-ransom-note](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0383-ransom-note) |
+| [0443-string-compression](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0443-string-compression) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Matrix
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0443-string-compression) |
 ## Prefix Sum
 |  |
 | ------- |
