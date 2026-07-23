@@ -4,7 +4,8 @@ class Solution {
         for (char i :s.toCharArray()){
             map.put(i, map.getOrDefault(i,0)+1);
         }
-        int freq = map.values().iterator().next();
+        char ch = s.charAt(0);
+        int freq = map.get(ch);
         for (char j:s.toCharArray()){
             if(map.get(j) != freq){
                 return false;
