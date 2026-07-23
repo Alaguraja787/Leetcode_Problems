@@ -3,26 +3,21 @@ class Solution {
         if (s.length()<1){
             return 0;
         }
-        int max_count = 1;
-        for (int i=0;i<s.length(); i++){
-            int count = 1;
-            String res ="";
-            res += s.charAt(i);
-            int j=i+1;
-            while (j < s.length()) {
-
-                if (!res.contains(String.valueOf(s.charAt(j)))) {
-                    res += s.charAt(j);
-                    count++;
-                } else {
+        int max_length = 0;
+        for (int i=0; i<s.length(); i++){
+            HashSet<Character> set = new HashSet<>();
+            for (int j=i; j<s.length(); j++){
+                if (set.contains(s.charAt(j))){
                     break;
                 }
-
-                j++;
+                else{
+                    set.add(s.charAt(j));
+                    max_length = Math.max(max_length, set.size());
+                }
             }
-            max_count = Math.max(count, max_count);
-            count = 1;
+            
         }
-        return max_count;
+        return max_length;
+
     }
 }
