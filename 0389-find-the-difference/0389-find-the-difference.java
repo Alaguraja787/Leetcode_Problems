@@ -35,10 +35,6 @@ class Solution {
                 return tt.charAt(j);
             }
         }
-        while (j<n){
-            res = tt.charAt(j);
-            j++;
-        }
-        return res;
+        return tt.charAt(j);
     }
 }
