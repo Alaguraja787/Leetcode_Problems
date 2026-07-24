@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0989-add-to-array-form-of-integer](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1051-height-checker) |
+| [1089-duplicate-zeros](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1089-duplicate-zeros) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
+| [1089-duplicate-zeros](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1089-duplicate-zeros) |
 ## Prefix Sum
 |  |
 | ------- |
