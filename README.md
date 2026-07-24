@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0283-move-zeroes) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1051-height-checker) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0202-happy-number) |
