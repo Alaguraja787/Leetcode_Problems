@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
+| [0389-find-the-difference](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0771-jewels-and-stones) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0804-unique-morse-code-words) |
 | [0890-find-and-replace-pattern](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0890-find-and-replace-pattern) |
