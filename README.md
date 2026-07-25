@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0771-jewels-and-stones) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0804-unique-morse-code-words) |
 | [0890-find-and-replace-pattern](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0890-find-and-replace-pattern) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 ## Dynamic Programming
 |  |
