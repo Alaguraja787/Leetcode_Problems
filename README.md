@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0890-find-and-replace-pattern) |
+| [0904-fruit-into-baskets](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0948-bag-of-tokens) |
 | [0989-add-to-array-form-of-integer](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0989-add-to-array-form-of-integer) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0804-unique-morse-code-words) |
 | [0890-find-and-replace-pattern](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0890-find-and-replace-pattern) |
+| [0904-fruit-into-baskets](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
 | [1512-number-of-good-pairs](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Two Pointers
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
 ## Dynamic Programming
 |  |
 | ------- |
