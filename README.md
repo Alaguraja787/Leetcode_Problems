@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0704-binary-search) |
 | [0804-unique-morse-code-words](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0804-unique-morse-code-words) |
 | [0860-lemonade-change](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0881-boats-to-save-people) |
@@ -158,4 +159,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
