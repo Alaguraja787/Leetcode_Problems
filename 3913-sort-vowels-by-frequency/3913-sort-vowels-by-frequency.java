@@ -2,41 +2,59 @@ import java.util.*;
 
 class Solution {
     public String sortVowels(String s) {
-        Set<Character> vowelSet = Set.of('a', 'e', 'i', 'o', 'u');
 
-        Map<Character, Integer> freq = new HashMap<>();
-        List<Character> vowels = new ArrayList<>();
+        int[] freq = new int[26];
+        int[] first = new int[26];
+        Arrays.fill(first, -1);
 
-        // Count frequency and store first occurrence order
-        for (char ch : s.toCharArray()) {
-            if (!vowelSet.contains(ch)) continue;
+        Character[] vowels = {'a','e','i','o','u'};
 
-            if (!freq.containsKey(ch)) {
-                vowels.add(ch);      // First occurrence
+        for(int i=0;i<s.length();i++){
+            char ch=s.charAt(i);
+
+            if(isVowel(ch)){
+                freq[ch-'a']++;
+
+                if(first[ch-'a']==-1){
+                    first[ch-'a']=i;
+                }
             }
-            freq.put(ch, freq.getOrDefault(ch, 0) + 1);
         }
 
-        // Sort by frequency descending
-        // Stable sort keeps first occurrence order when frequencies are equal
-        vowels.sort((a, b) -> freq.get(b) - freq.get(a));
+        Arrays.sort(vowels,(a,b)->{
 
-        char[] ans = s.toCharArray();
-        int idx = 0;
-
-        for (int i = 0; i < ans.length; i++) {
-            if (!vowelSet.contains(ans[i])) continue;
-
-            char ch = vowels.get(idx);
-            ans[i] = ch;
-
-            freq.put(ch, freq.get(ch) - 1);
-
-            if (freq.get(ch) == 0) {
-                idx++;
+            if(freq[a-'a']!=freq[b-'a']){
+                return freq[b-'a']-freq[a-'a'];
             }
+
+            if(first[a-'a']==-1) return 1;
+            if(first[b-'a']==-1) return -1;
+
+            return first[a-'a']-first[b-'a'];
+        });
+
+        char[] ans=s.toCharArray();
+
+        int idx=0;
+        int remain=freq[vowels[idx]-'a'];
+
+        for(int i=0;i<ans.length;i++){
+
+            if(!isVowel(ans[i])) continue;
+
+            while(remain==0){
+                idx++;
+                remain=freq[vowels[idx]-'a'];
+            }
+
+            ans[i]=vowels[idx];
+            remain--;
         }
 
         return new String(ans);
+    }
+
+    private boolean isVowel(char ch){
+        return ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u';
     }
 }
