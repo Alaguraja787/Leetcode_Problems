@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0948-bag-of-tokens) |
 | [1051-height-checker](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1051-height-checker) |
+| [3913-sort-vowels-by-frequency](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/3913-sort-vowels-by-frequency) |
 ## Counting Sort
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1051-height-checker) |
 | [1512-number-of-good-pairs](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3913-sort-vowels-by-frequency](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/3913-sort-vowels-by-frequency) |
 ## Math
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0804-unique-morse-code-words) |
 | [0890-find-and-replace-pattern](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0890-find-and-replace-pattern) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3913-sort-vowels-by-frequency](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/3913-sort-vowels-by-frequency) |
 ## Matrix
 |  |
 | ------- |
