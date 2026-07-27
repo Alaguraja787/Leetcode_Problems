@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0136-single-number) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0704-binary-search) |
