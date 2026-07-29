@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0948-bag-of-tokens) |
@@ -191,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
