@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0605-can-place-flowers) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0804-unique-morse-code-words) |
 | [0890-find-and-replace-pattern](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0890-find-and-replace-pattern) |
@@ -216,5 +218,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0682-baseball-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
