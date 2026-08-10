@@ -226,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
