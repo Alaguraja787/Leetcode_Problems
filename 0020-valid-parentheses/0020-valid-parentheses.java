@@ -6,25 +6,37 @@ class Solution {
         map.put('}' , '{');
         map.put(']' , '[');
 
+        if (s.length()==1){
+            return false;
+        }
         Stack<Character> st = new Stack<>();
-        for (int i=0; i<s.length(); i++){
-            char ch = s.charAt(i);
 
-            if (!map.containsKey(ch)){
+        for (char ch: s.toCharArray()){
+            if (ch=='(' || ch=='{' || ch=='['){
                 st.push(ch);
             }
+
             else{
                 if (st.isEmpty()){
                     return false;
                 }
-                else{
-                    int popped = st.pop();
-                    if (popped != map.get(ch)){
-                        return false;
-                    }
+                char top = st.pop();
+                if (ch==')' && top!='('){
+                    return false;
+                }
+
+                if (ch=='}' && top!='{'){
+                    return false;
+                }
+
+                if (ch==']' && top!='['){
+                    return false;
                 }
             }
         }
-        return st.isEmpty();
+        if (!st.isEmpty()){
+            return false;
+        }
+        return true;
     }
 }
