@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1089-duplicate-zeros) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -179,11 +180,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0918-maximum-sum-circular-subarray) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
 |  |
 | ------- |
