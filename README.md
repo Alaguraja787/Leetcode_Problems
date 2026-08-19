@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0078-subsets](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0162-find-peak-element) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0389-find-the-difference) |
 ## String
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
