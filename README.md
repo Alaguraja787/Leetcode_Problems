@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0039-combination-sum) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0389-find-the-difference](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0561-array-partition) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0125-valid-palindrome) |
