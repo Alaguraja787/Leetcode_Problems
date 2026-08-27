@@ -23,7 +23,7 @@ class Solution {
         return this.maxsum;
     }
 
-    public int dfs(TreeNode root){
+    public int dfs(TreeNode root){   
         if (root == null){
             return 0;
         }
@@ -36,4 +36,4 @@ class Solution {
 
         return root.val+Math.max(left, right);
     }
-}
+}   
