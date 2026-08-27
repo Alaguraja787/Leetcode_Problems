@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
@@ -284,12 +287,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
