@@ -14,22 +14,22 @@
  * }
  */
 class Solution {
-    int sum = 0;
     public int rangeSumBST(TreeNode root, int low, int high) {
-        dfs(root, low, high);
-        return this.sum;
+        if (root == null){
+            return 0;
+        }
+
+        if (root.val < low){
+            return rangeSumBST(root.right, low, high);
+        }
+
+        if (root.val > high){
+            return rangeSumBST(root.left, low, high);
+        }
+
+        return root.val + rangeSumBST(root.left, low, high) + rangeSumBST(root.right, low, high);
+        
     }
 
-    public void dfs(TreeNode root, int low, int high){
-        if (root == null){
-            return;
-        }
-        if (root.val >=low && root.val <= high){
-            this.sum += root.val;
-        }
-        
-        dfs(root.right, low, high);
-        dfs(root.left, low, high);
-        
-    }
+    
 }
