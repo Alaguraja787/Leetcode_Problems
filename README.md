@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0938-range-sum-of-bst](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -307,9 +308,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0112-path-sum) |
+| [0547-number-of-provinces](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0938-range-sum-of-bst) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
