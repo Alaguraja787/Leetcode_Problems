@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1672-richest-customer-wealth](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1920-build-array-from-permutation) |
@@ -322,11 +323,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0547-number-of-provinces) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0743-network-delay-time) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -339,4 +342,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0743-network-delay-time) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
