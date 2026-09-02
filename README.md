@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1920-build-array-from-permutation) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0507-perfect-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1512-number-of-good-pairs](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
