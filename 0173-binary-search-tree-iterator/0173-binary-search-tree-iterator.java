@@ -21,21 +21,21 @@ class BSTIterator {
     }
     
     public int next() {
-        TreeNode curr = stack.pop();
-        if (curr.right != null){
-            pushleft(curr.right);
+        TreeNode value = stack.pop();
+        if (value.right != null){
+            pushleft(value.right);
         }
-        return curr.val;
+        return value.val;
     }
     
     public boolean hasNext() {
         return (!stack.isEmpty());
     }
 
-    public void pushleft(TreeNode node){
-        while(node != null){
-            stack.push(node);
-            node = node.left;
+    public void pushleft(TreeNode root){
+        while(root!= null){
+            stack.push(root);
+            root = root.left;
         }
     }
 }
