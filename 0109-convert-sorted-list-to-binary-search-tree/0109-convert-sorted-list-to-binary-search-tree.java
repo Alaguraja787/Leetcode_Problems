@@ -25,32 +25,31 @@
  */
 class Solution {
     public TreeNode sortedListToBST(ListNode head) {
-        if (head== null){
+        if (head ==null){
             return null;
         }
-        if (head.next == null){
+
+        if(head.next == null){
             return new TreeNode(head.val);
         }
-
         ListNode prev = null;
         ListNode slow = head;
         ListNode fast = head;
-
-        while ( fast != null && fast.next!= null){
+        while (fast != null && fast.next != null){
             prev = slow;
             slow = slow.next;
             fast = fast.next.next;
         }
 
+        
         prev.next = null;
-        ListNode left = head;
+        ListNode first = head;
 
         TreeNode root = new TreeNode(slow.val);
+        ListNode second = slow.next;
 
-        ListNode right = slow.next;
-
-        root.left = sortedListToBST(left);
-        root.right =sortedListToBST(right);
+        root.left = sortedListToBST(first);
+        root.right = sortedListToBST(second);
         return root;
     }
 }
