@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0938-range-sum-of-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Depth-First Search
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0938-range-sum-of-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## DP on Trees
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0938-range-sum-of-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Union-Find
