@@ -22,7 +22,7 @@ class Solution {
         if (root.val>val){
             return searchBST(root.left, val);
         }
-        return searchBST(root.right, val);
-
+            return searchBST(root.right, val);
+        
     } 
 }
