@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1920-build-array-from-permutation) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
 | [1512-number-of-good-pairs](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Two Pointers
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0938-range-sum-of-bst) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0743-network-delay-time) |
 | [0938-range-sum-of-bst](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0938-range-sum-of-bst) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0938-range-sum-of-bst) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## DP on Trees
 |  |
 | ------- |
@@ -346,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0938-range-sum-of-bst) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Union-Find
 |  |
 | ------- |
