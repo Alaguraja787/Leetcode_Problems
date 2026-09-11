@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0206-reverse-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -418,4 +421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
