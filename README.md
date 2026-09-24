@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Alaguraja787/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
